@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<suite name="Dailyfinnce Automation">
+
+    <test name="user Registration">
+        <!--    <groups>
+                <run>
+                    <include name="smoke"> </include>
+                </run>
+            </groups>-->
+        <classes>
+            <class name="CalcTestRunner"> </class>
+        </classes>
+
+    </test>
+
+
+</suite>
