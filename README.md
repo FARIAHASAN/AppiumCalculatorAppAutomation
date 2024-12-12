@@ -6,7 +6,7 @@
 - Appium
 - Appium inspector 
 ## How to run? 
-### Execute following command: - ```  https://github.com/FARIAHASAN/Calculator-App-Automation-using-Appium.git ```
+### Execute following command: - ```  git clone https://github.com/FARIAHASAN/Calculator-App-Automation-using-Appium.git ```
 ## Allure Report: 
 ### Overview 
 ![Screenshot 2024-12-11 132121](https://github.com/user-attachments/assets/99598aef-7681-4bb3-be6b-c6e30f5e63f3)
